@@ -1,0 +1,11 @@
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.csproj.AssemblyReference.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.Menu_Principal.resources
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.Properties.Resources.resources
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.csproj.GenerateResource.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.csproj.CoreCompileInputs.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\bin\Debug\Telas_Software_Praticando.exe.config
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\bin\Debug\Telas_Software_Praticando.exe
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\bin\Debug\Telas_Software_Praticando.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.exe
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.pdb

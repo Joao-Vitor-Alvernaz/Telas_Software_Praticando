@@ -31,6 +31,7 @@
             this.comboBox_Cadastros = new System.Windows.Forms.ComboBox();
             this.ComboBox_Estoque = new System.Windows.Forms.ComboBox();
             this.ComboBox_Caixa = new System.Windows.Forms.ComboBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // comboBox_Cadastros
@@ -57,12 +58,23 @@
             this.ComboBox_Caixa.Size = new System.Drawing.Size(121, 21);
             this.ComboBox_Caixa.TabIndex = 2;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(562, 51);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Menu_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.ComboBox_Caixa);
             this.Controls.Add(this.ComboBox_Estoque);
             this.Controls.Add(this.comboBox_Cadastros);
@@ -77,6 +89,7 @@
         private System.Windows.Forms.ComboBox comboBox_Cadastros;
         private System.Windows.Forms.ComboBox ComboBox_Estoque;
         private System.Windows.Forms.ComboBox ComboBox_Caixa;
+        private System.Windows.Forms.Button button1;
     }
 }
 

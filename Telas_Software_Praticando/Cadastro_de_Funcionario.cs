@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace Telas_Software_Praticando
 {
-    public partial class Menu_Principal : Form
+    public partial class Cadastro_de_Funcionario : Form
     {
-        public Menu_Principal()
+        public Cadastro_de_Funcionario()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Cadastro_de_Funcionario cf = new Cadastro_de_Funcionario();
-            cf.ShowDialog();
         }
     }
 }
