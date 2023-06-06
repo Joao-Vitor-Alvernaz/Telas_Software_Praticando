@@ -9,3 +9,4 @@ C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Pr
 C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\bin\Debug\Telas_Software_Praticando.pdb
 C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.exe
 C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Telas_Software_Praticando\Telas_Software_Praticando\obj\Debug\Telas_Software_Praticando.Cadastro_de_Funcionario.resources

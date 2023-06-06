@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu_Principal));
             this.comboBox_Cadastros = new System.Windows.Forms.ComboBox();
             this.ComboBox_Estoque = new System.Windows.Forms.ComboBox();
             this.ComboBox_Caixa = new System.Windows.Forms.ComboBox();
@@ -73,6 +74,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.ComboBox_Caixa);
