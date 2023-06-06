@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Telas_Software_Praticando
 {
-    public partial class Form1 : Form
+    public partial class Menu_Principal : Form
     {
-        public Form1()
+        public Menu_Principal()
         {
             InitializeComponent();
         }
